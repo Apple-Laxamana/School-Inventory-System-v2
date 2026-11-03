@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|c:\\users\\lenovo\\downloads\\version 2\\school_inventory_system_v2\\school_inventory_system_v2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|solutionrelative:school_inventory_system_v2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|c:\\users\\lenovo\\downloads\\version 2\\school_inventory_system_v2\\school_inventory_system_v2\\dashboarduc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|solutionrelative:school_inventory_system_v2\\dashboarduc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|c:\\users\\lenovo\\downloads\\version 2\\school_inventory_system_v2\\school_inventory_system_v2\\dashboarduc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|solutionrelative:school_inventory_system_v2\\dashboarduc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|c:\\users\\lenovo\\downloads\\version 2\\school_inventory_system_v2\\school_inventory_system_v2\\deptlocuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|solutionrelative:school_inventory_system_v2\\deptlocuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|c:\\users\\lenovo\\downloads\\version 2\\school_inventory_system_v2\\school_inventory_system_v2\\stockmovementuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|solutionrelative:school_inventory_system_v2\\stockmovementuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|c:\\users\\lenovo\\downloads\\version 2\\school_inventory_system_v2\\school_inventory_system_v2\\sidebaruc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|solutionrelative:school_inventory_system_v2\\sidebaruc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|c:\\users\\lenovo\\downloads\\version 2\\school_inventory_system_v2\\school_inventory_system_v2\\sidebaruc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|solutionrelative:school_inventory_system_v2\\sidebaruc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|c:\\users\\lenovo\\downloads\\version 2\\school_inventory_system_v2\\school_inventory_system_v2\\inventorymanagementuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|solutionrelative:school_inventory_system_v2\\inventorymanagementuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|c:\\users\\lenovo\\downloads\\version 2\\school_inventory_system_v2\\school_inventory_system_v2\\maincontentuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|solutionrelative:school_inventory_system_v2\\maincontentuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|c:\\users\\lenovo\\downloads\\version 2\\school_inventory_system_v2\\school_inventory_system_v2\\loginuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6CB3841B-DBC4-4290-B847-9052D364FFCD}|School_Inventory_System_v2\\School_Inventory_System_v2.vbproj|solutionrelative:school_inventory_system_v2\\loginuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\Form1.vb",
+              "RelativeDocumentMoniker": "School_Inventory_System_v2\\Form1.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\Form1.vb",
+              "RelativeToolTip": "School_Inventory_System_v2\\Form1.vb",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAKgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-03T06:05:55.241Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardUC.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\DashboardUC.vb",
+              "RelativeDocumentMoniker": "School_Inventory_System_v2\\DashboardUC.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\DashboardUC.vb",
+              "RelativeToolTip": "School_Inventory_System_v2\\DashboardUC.vb",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA0wHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-03T06:32:46.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeptLocUC.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\DeptLocUC.vb",
+              "RelativeDocumentMoniker": "School_Inventory_System_v2\\DeptLocUC.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\DeptLocUC.vb",
+              "RelativeToolTip": "School_Inventory_System_v2\\DeptLocUC.vb",
+              "ViewState": "AgIAAIoCAAAAAAAAAAAIwLQCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-03T06:21:29.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SideBarUC.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\SideBarUC.vb",
+              "RelativeDocumentMoniker": "School_Inventory_System_v2\\SideBarUC.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\SideBarUC.vb",
+              "RelativeToolTip": "School_Inventory_System_v2\\SideBarUC.vb",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwGcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-27T07:25:26.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SideBarUC.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\SideBarUC.vb",
+              "RelativeDocumentMoniker": "School_Inventory_System_v2\\SideBarUC.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\SideBarUC.vb [Design]",
+              "RelativeToolTip": "School_Inventory_System_v2\\SideBarUC.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-02T09:09:07.301Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockMovementUC.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\StockMovementUC.vb",
+              "RelativeDocumentMoniker": "School_Inventory_System_v2\\StockMovementUC.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\StockMovementUC.vb [Design]",
+              "RelativeToolTip": "School_Inventory_System_v2\\StockMovementUC.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-03T03:17:49.879Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventoryManagementUC.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\InventoryManagementUC.vb",
+              "RelativeDocumentMoniker": "School_Inventory_System_v2\\InventoryManagementUC.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\InventoryManagementUC.vb [Design]",
+              "RelativeToolTip": "School_Inventory_System_v2\\InventoryManagementUC.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-20T05:58:19.086Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginUC.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\LoginUC.vb",
+              "RelativeDocumentMoniker": "School_Inventory_System_v2\\LoginUC.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\LoginUC.vb",
+              "RelativeToolTip": "School_Inventory_System_v2\\LoginUC.vb",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwHEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-03T05:27:14.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainContentUC.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\MainContentUC.vb",
+              "RelativeDocumentMoniker": "School_Inventory_System_v2\\MainContentUC.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\MainContentUC.vb [Design]",
+              "RelativeToolTip": "School_Inventory_System_v2\\MainContentUC.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-03T05:33:48.327Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardUC.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\DashboardUC.vb",
+              "RelativeDocumentMoniker": "School_Inventory_System_v2\\DashboardUC.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Version 2\\School_Inventory_System_v2\\School_Inventory_System_v2\\DashboardUC.vb [Design]",
+              "RelativeToolTip": "School_Inventory_System_v2\\DashboardUC.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-03T03:28:12.246Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
